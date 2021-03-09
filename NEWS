@@ -4,6 +4,14 @@
 
 
 
+NNbenchmark 3.1.9 - 2021-03-09 - Submitted to CRAN
+==================================================
+- All URLs tested with the new package urlchecker_1.0.0 published on 2021-03-04
+- datasets.R: http replaced by https
+- datasets.R: NIST pages replaced by a redirection from InModelia's website
+- DESCRIPTION and a_intro.R: New links to theairbend3r, Github and InModelia
+- DESCRIPTION: Akshaj and Salsabila Orcid numbers 
+
 NNbenchmark 3.1.6 - 2020-09-07 - Submitted to CRAN
 ==================================================
 - v_3.1.5 erased since mixed with 2019 code
