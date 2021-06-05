@@ -1,9 +1,9 @@
-dc7c0cf05f995cfb93ee2775fcd8a31c *DESCRIPTION
+46c2c46d600772b71ac8036cf208b86a *DESCRIPTION
 a677e61b1f4b88c2828b4cb427b7ed86 *NAMESPACE
-b89c3eb1a637f4b4eb473513414e7c87 *NEWS
+779d17272770dd1a7726328f81444f6c *NEWS
 69351be6f2eb9ce8cd81340e5bfa9365 *R/NNSummary.R
 191377d2420c61d2d9297ce445dd033d *R/NNdataSummary.R
-d68f2e004c65b665f475c38d733f6663 *R/NNtrainPredict.R
+bd332eeb6168f0c7556ac5ad5b413fcd *R/NNtrainPredict.R
 4b92b6a7eb6e78299ddc4670b743f43d *R/a_intro.R
 fc6a0486dc8d7ae4bcbfce6132a93f51 *R/add2csv.R
 816089ba0a67cf44904a0c882f5a92e7 *R/cc.R
@@ -28,7 +28,7 @@ be457d26223da87297e31c66ad0cdf7e *man/NNbenchmark-package.Rd
 4a5610519e9930c86071a53516aa7862 *man/NNdataSummary.Rd
 612a38216edd00aa605ba4813f8ed45c *man/NNdatasets.Rd
 8d85ba6cc4dfb7975b799ceef6e22fe0 *man/NNsummary.Rd
-8a8bab17ce6234029318082649b110ea *man/NNtrainPredict.Rd
+6aa3fb38625b17d25552289ef41dbe82 *man/NNtrainPredict.Rd
 79f8ef3550d17ed5bbc596870249de9b *man/add2csv.Rd
 251a34c6dbe6290c96ec96ba07d8a35f *man/bWoodN1.Rd
 6e67852a42a03bd249daac22d792a498 *man/cc.Rd
